@@ -1,0 +1,5 @@
+/file io basics.py
+
+#'/' stands for only this file
+# while if we use '*' it will ignore all the files or
+#extensions etc. given with that name or value.
